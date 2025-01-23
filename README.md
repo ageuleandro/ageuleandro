@@ -1,10 +1,12 @@
 # Olá, eu sou Ageu Leandro
 
+```ruby
 class Programmer
-    def initialize
-        puts "Hello, world!"
-    end
+  def initialize
+    puts "Hello, world!"
+  end
 end
+
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusername)
