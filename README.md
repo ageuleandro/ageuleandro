@@ -3,7 +3,12 @@
 ```ruby
 class Programmer
   def initialize
-    puts "Hello, world!"
+    frames = ["👨‍💻", "🖥️", "🔧", "🚀", "🌍"]
+    5.times do
+      print frames.sample + "\r"
+      sleep(0.2)
+    end
+    puts "Hello, world! Welcome to the coding adventure! 🎉"
   end
 end
 ```
