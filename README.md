@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Ageu Leandro
 
-<!--
-**ageuleandro/ageuleandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Ruby
+class Programmer:
+    def initialize():
+        pass
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ageuleandro/)
 
-Here are some ideas to get you started:
+## Open Source Projects
+| Id | Projects          | Skills             | Stars | Forks | Issues   | Pull requests |
+|----|-------------------|--------------------|-------|-------|----------|---------------|
+| 1  | Projeto    | Web Development    | ⭐ 0   | 🍴 0   | 🐛 0 Open | 📌 0 Open      |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://komarev.com/ghpvc/?username=ageuleandro&color=blue&style=flat)
+
+
+
